@@ -1,5 +1,5 @@
 # Learning-Python
-Portafolio para la materia programacion II
+Portafolio para la materia programacion I
 
 ```Python
 pip install scipy
