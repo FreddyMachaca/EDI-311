@@ -1,6 +1,5 @@
 # Learning-Python
-Código para proyectos presentados en el curso "Python para no matemáticos: De 0 hasta reconocimiento facial
-" de Udemy
+Código para proyectos de la materia Ecuaciones diferenciales
 
 # Comandos
 ```Python
